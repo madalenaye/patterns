@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringBarTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-12-17T17:15:12" hostname="pc-13-137.customer.ask4.lan" time="1.393">
+  <properties/>
+  <testcase name="happyHour()" classname="StringBarTest" time="0.143"/>
+  <testcase name="impatientStrategy()" classname="StringBarTest" time="0.033"/>
+  <testcase name="removeObserver()" classname="StringBarTest" time="1.155"/>
+  <testcase name="smartStrategyStartClosed()" classname="StringBarTest" time="0.01"/>
+  <testcase name="smartStrategyStartOpened()" classname="StringBarTest" time="0.001"/>
+  <testcase name="addObserver()" classname="StringBarTest" time="0.02"/>
+  <testcase name="orderStringRecipe()" classname="StringBarTest" time="0.001"/>
+  <testcase name="ferengiStartClosed()" classname="StringBarTest" time="0.005"/>
+  <testcase name="ferengiAlreadyOpened()" classname="StringBarTest" time="0.001"/>
+  <testcase name="romulan()" classname="StringBarTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
